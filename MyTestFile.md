@@ -5,4 +5,6 @@ A small Change
 
 A conflicting change
 
+
 Another small change
+Another conflicting change
