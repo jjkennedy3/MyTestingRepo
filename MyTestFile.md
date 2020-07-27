@@ -8,3 +8,5 @@ A conflicting change
 
 Another small change
 Another conflicting change
+
+Yep, another conflict
