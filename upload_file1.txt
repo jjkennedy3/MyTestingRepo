@@ -1,0 +1,1 @@
+test upload for multiple files drag and drop
